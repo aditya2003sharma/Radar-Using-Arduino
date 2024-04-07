@@ -1,6 +1,6 @@
 # Ultrasonic Sensor with Servo Motor Control
 
-<p align-item=justify> This Arduino sketch is designed to control an Ultrasonic Sensor with a Servo Motor. The code allows the servo motor to rotate from 15 to 165 degrees, while the ultrasonic sensor measures the distance at each degree of rotation. The measured distance data is then sent via Serial communication for further processing or visualization.</p>
+This Arduino sketch is designed to control an Ultrasonic Sensor with a Servo Motor. The code allows the servo motor to rotate from 15 to 165 degrees, while the ultrasonic sensor measures the distance at each degree of rotation. The measured distance data is then sent via Serial communication for further processing or visualization.
 
 <img src="img/pic 1.png" alt="radar">
 
